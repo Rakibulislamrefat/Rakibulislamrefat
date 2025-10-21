@@ -29,7 +29,7 @@
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
   <p>🚀 Python with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
-  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
+  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Machine Le.</p>
 </div>
 
 ###
@@ -101,4 +101,5 @@
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
+
 
